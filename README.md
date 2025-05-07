@@ -6,7 +6,7 @@
 
 
 
-# Goal of program:
+# Goal of the program:
 
 
 To create a dataset of images embedded in a desktop environment, for AI training downstream.
