@@ -43,7 +43,8 @@ On startup there is a initial placeholder image displayed, it is not screen-shot
 --------------------------------------------------------------------------------------------
 
 
-How to run the program:
+# How to run the program:
+
 1. Save the repo into a folder of your choice
 2. Install anaconda from [anaconda.com](https://www.anaconda.com/) for python environment control
 3. Open up anaconda prompt and run 'conda create -n "DesktopDataset" python=3.11'
